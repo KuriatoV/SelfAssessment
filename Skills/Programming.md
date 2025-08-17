@@ -164,7 +164,7 @@
   - Code review
   - Exception
   - Unittesting
-  - git u
+  - git: 🖐️ used
   - Github
   - Docker
   - Kubernetes
